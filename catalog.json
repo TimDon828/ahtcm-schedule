@@ -1,7 +1,7 @@
 {
     "format":  "ahtcm-schedule-catalog",
     "catalogVersion":  1,
-    "generatedAt":  "2026-10-08T11:58:07.188Z",
+    "generatedAt":  "2026-10-09T00:06:49.423Z",
     "packages":  [
                      {
                          "semesterCode":  "202601",
@@ -105,6 +105,41 @@
                                               "code":  "205260027",
                                               "name":  "005-校外床边教学基地",
                                               "completedAt":  "2026-10-05T07:13:25.335Z"
+                                          }
+                                      ]
+                     },
+                     {
+                         "semesterCode":  "202501",
+                         "semesterName":  "2025-2026-1",
+                         "collectedAt":  "2026-10-08T23:12:30.443Z",
+                         "file":  "课程数据库 2025-2026-1 全校区 20261009-071230.zip",
+                         "bytes":  733934,
+                         "sha256":  "36d95ea114a81e73641e05789c5721edb426ed29ee5d0d955cf62b41c9d7e881",
+                         "campuses":  [
+                                          {
+                                              "code":  "2",
+                                              "name":  "001-梅山路校区",
+                                              "completedAt":  "2026-10-08T20:58:05.048Z"
+                                          },
+                                          {
+                                              "code":  "3",
+                                              "name":  "002-少荃湖校区",
+                                              "completedAt":  "2026-10-08T23:11:10.499Z"
+                                          },
+                                          {
+                                              "code":  "22",
+                                              "name":  "003-史河路校区",
+                                              "completedAt":  "2026-10-08T23:12:20.434Z"
+                                          },
+                                          {
+                                              "code":  "205242774",
+                                              "name":  "004-六安路校区",
+                                              "completedAt":  "2026-10-08T23:12:22.432Z"
+                                          },
+                                          {
+                                              "code":  "205260027",
+                                              "name":  "005-校外床边教学基地",
+                                              "completedAt":  "2026-10-08T23:12:30.443Z"
                                           }
                                       ]
                      }
