@@ -1,8 +1,43 @@
 {
     "format":  "ahtcm-schedule-catalog",
     "catalogVersion":  1,
-    "generatedAt":  "2026-10-09T00:06:49.423Z",
+    "generatedAt":  "2026-10-14T07:47:28.275Z",
     "packages":  [
+                     {
+                         "semesterCode":  "202601",
+                         "semesterName":  "2026-2027-1",
+                         "collectedAt":  "2026-10-14T07:43:40.699Z",
+                         "file":  "课程数据库 2026-2027-1 全校区 20261014-154340.zip",
+                         "bytes":  1009243,
+                         "sha256":  "a2976186c0a1aaf65854219e9f74465bf1a3a67baedee08180d44e62f4472b5a",
+                         "campuses":  [
+                                          {
+                                              "code":  "2",
+                                              "name":  "001-梅山路校区",
+                                              "completedAt":  "2026-10-14T05:31:50.828Z"
+                                          },
+                                          {
+                                              "code":  "3",
+                                              "name":  "002-少荃湖校区",
+                                              "completedAt":  "2026-10-14T07:42:34.549Z"
+                                          },
+                                          {
+                                              "code":  "22",
+                                              "name":  "003-史河路校区",
+                                              "completedAt":  "2026-10-14T07:42:36.152Z"
+                                          },
+                                          {
+                                              "code":  "205242774",
+                                              "name":  "004-六安路校区",
+                                              "completedAt":  "2026-10-14T07:42:37.222Z"
+                                          },
+                                          {
+                                              "code":  "205260027",
+                                              "name":  "005-校外床边教学基地",
+                                              "completedAt":  "2026-10-14T07:43:40.699Z"
+                                          }
+                                      ]
+                     },
                      {
                          "semesterCode":  "202601",
                          "semesterName":  "2026-2027-1",
